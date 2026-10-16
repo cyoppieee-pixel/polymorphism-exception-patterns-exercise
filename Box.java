@@ -1,4 +1,4 @@
-// Box: charged by the bigger of actual and volumetric weight, max 50 kg
+//charged by the bigger of actual and volumetric weight, max 50 kg
 public class Box extends Parcel {
     private int length, width, height;
 
